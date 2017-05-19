@@ -1,0 +1,42 @@
+        body,html {
+            margin: 0;
+        }
+
+        .logo {
+        	color : white;
+        	height : 400px;
+            width  : 100%;
+            background-image : url("E2CP2A1/images/latam_logo.png");
+            background-color: white;
+        }
+
+        .header{
+        	height : 400px;
+            width  : 100%;
+            background-image : url("E2CP2A1/images/bg.jpeg");
+
+        }
+
+		h1{
+			text-align: center;
+			color:white;
+			padding: 131px;
+		}
+
+
+        h4 {
+        	clear : left;
+        	color : white;
+        	float : left;
+        }
+        ul.menu {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        ul.menu li a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+        }
